@@ -1,0 +1,10 @@
+@media(min-width:850px) and (max-width:1200px){
+    .cabeçalho{
+        display:flex;
+    }
+    .links{
+        display: flex;
+    }
+
+    
+}
