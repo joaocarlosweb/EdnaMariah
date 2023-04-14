@@ -113,3 +113,15 @@ input{
     width: 40%;
     transition: .8s;
 }
+#slader1:checked ~ .s1{
+    margin-left: -0%;
+}
+#slader2:checked ~ .s1{
+    margin-left: -40%;
+}
+#slader3:checked ~ .s1{
+    margin-left: -80%;
+}
+#slader4:checked ~ .s1{
+    margin-left: -120%;
+}
