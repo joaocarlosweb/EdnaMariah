@@ -111,7 +111,7 @@ input{
 }
 .slade{
     width: 40%;
-    transition: .8s;
+    transition: 1s;
 }
 #slader1:checked ~ .s1{
     margin-left: -0%;
