@@ -31,4 +31,15 @@
     }
     
 }
+@media(min-width:300px) and (max-width:500px){
+    .cabeçalho{
+        width: 100%;
+        margin: auto;
+    }
+    .container{
+        width: 100%;
+        margin: auto;
+    }
+
+}
 
