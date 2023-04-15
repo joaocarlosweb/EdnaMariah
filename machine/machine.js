@@ -6,4 +6,4 @@ setInterval(function(){
     if(contador>4){
         contador=1
     }
-},3000);
+},5000);

@@ -1,10 +1,23 @@
 @media(min-width:850px) and (max-width:1200px){
     .cabeçalho{
-        display:flex;
+        margin: auto;
+        width: 1200px;
+        
     }
     .links{
         display: flex;
-    }
+    }  
+}
+@media(min-width:500px) and (max-width:860px){
+    .cabeçalho{
+        width: 1200px;
+        margin: auto;
 
-    
+    }
+}
+@media(min-width:1201px) and (max-width:1900px){
+    .cabeçalho{
+        width: 100%;
+        margin: auto;
+    }
 }

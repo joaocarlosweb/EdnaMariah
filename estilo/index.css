@@ -12,8 +12,9 @@ body{
     width: 100%;
 }
 .cabeçalho{
+    
     display: block;
-    width: 100%;
+    width: 1200px;
     background-color: #fe6c4c;
     text-align: center;
     align-items: center;
@@ -88,6 +89,7 @@ body{
     left: 750px;
     display: flex;
     color: white;
+    margin: auto;
 }
 .bar{
     width: 15px;
