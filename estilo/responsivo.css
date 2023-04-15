@@ -3,16 +3,32 @@
         width: 100%;
         margin: auto;
     }
+    .container{
+        width: 1200px;
+        margin: auto;
+    }
+    
 }
 @media(min-width:850px) and (max-width:1200px){
     .cabeçalho{
         width: 100%;
         margin: auto;
+    }
+    .container{
+        width: 100%;
+        margin: auto;
+    }
+    
 }
-}
-@media(min-width:500px) and (max-width:860px){
+@media(min-width:500px) and (max-width:850px){
     .cabeçalho{
         width: 100%;
         margin: auto;
     }
+    .container{
+        width: 100%;
+        margin: auto;
+    }
+    
 }
+
