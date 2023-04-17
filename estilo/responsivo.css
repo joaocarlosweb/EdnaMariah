@@ -47,6 +47,9 @@
         width: 30px;
         height: 30px;
     }
+    .descriçao p{
+        margin: auto;
+    }
 
 }
 
