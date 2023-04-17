@@ -48,6 +48,7 @@
     }
     .descriçao p{
         margin: auto;
+        height: auto;
     }
 
 }
