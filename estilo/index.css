@@ -125,3 +125,35 @@ input{
 #slader4:checked ~ .s1{
     margin-left: -120%;
 }
+.descriçao{
+   
+    height: 80vh;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    background-color: #fe3e28;
+    color: white;
+    font-size: 42px;
+}
+.descriçao img{
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: solid 3px white;   
+}
+.descriçao h3{
+    font-family: 'Dancing Script', cursive;
+    margin: auto;
+    
+    margin-top: 10px;
+}
+.descriçao p{
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    text-decoration: justify;
+    text-indent: 20px;
+    margin-bottom: 10px;
+}
