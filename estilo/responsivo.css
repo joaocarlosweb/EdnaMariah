@@ -40,6 +40,13 @@
         width: 100%;
         margin: auto;
     }
+    .descriçao{
+        height: 135vh;
+    }
+    .descrição img{
+        width: 100px;
+        height: 100px;
+    }
 
 }
 
