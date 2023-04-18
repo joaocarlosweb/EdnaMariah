@@ -127,10 +127,10 @@ input{
     margin-left: -120%;
 }
 .descriçao{
-   
+    
     margin: auto;
     text-align: center;
-    align-items: center;
+    align-items: justify;
     background-color: #fe3e28;
     color: white;
     font-size: 42px;
@@ -195,3 +195,14 @@ input{
     border-radius: 15px;
     border: solid 2px #fe3e28;
 }
+footer{
+    font-family: sans-serif;
+    height: 20vh;
+    background-color: #fe3e28;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding-top: 8vh;
+    font-size: 25px;
+}
+
