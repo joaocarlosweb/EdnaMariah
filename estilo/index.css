@@ -156,3 +156,17 @@ input{
     text-indent: 20px;
     margin-bottom: 10px;
 }
+.outrass{
+    height: 100vh;
+    background-color: white;
+    color: #fe3e28;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    text-decoration: justify;
+    font-size: 32px;
+    margin-top: 10px;
+}
+.outrass h4{
+    font-family: 'Dancing Script', cursive;
+}

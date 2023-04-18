@@ -40,11 +40,12 @@
         width: 100%;
         margin: auto;
     }
-    .descriçao{
+    .descriçao {
+        padding-bottom: 15px;
     }
-    .descrição img{
-        width: 30px;
-        height: 30px;
+    .descriçao img{
+        width: 100px;
+        height: 100px;
     }
     .descriçao p{
         margin: auto;
