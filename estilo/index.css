@@ -180,7 +180,7 @@ input{
     align-items: center;
     font-family: sans-serif;
     justify-content: center;
-    text-align: center;
+    text-align: justify;
 }
 .outrass img{
     width: 40%;
@@ -190,5 +190,7 @@ input{
     text-align: center;
     align-items: center;
     margin: auto;
-    padding: 15px;
+    margin-top: 15px;  
+    border-radius: 15px;
+    border: solid 2px #fe3e28;
 }

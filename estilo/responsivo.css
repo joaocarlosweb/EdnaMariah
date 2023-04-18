@@ -31,12 +31,14 @@
     .outrass p{
         display: flex;
         width: 100%;
-        text-align: center;
+        text-align: justify;
     }
     .outrass img{
         display: flex;
         width: 350px;
         height: 350px;
+        border-radius: 15px;
+        border: solid 2px #fe3e28;
     }
     
 }
@@ -63,12 +65,15 @@
     .outrass p{
         display: flex;
         width: 100%;
-        text-align: center;
+        text-align: justify;
     }
     .outrass img{
         display: flex;
         width: 300px;
         height: 300px;
+        border-radius: 15px;
+        border: solid 2px #fe3e28;
+        margin-bottom: 10px;
     }
 
 }
