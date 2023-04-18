@@ -14,7 +14,7 @@ body{
 .cabeçalho{
     display: block;
     width: 1200px;
-    background-color: #fe6c4c;
+    background-color: #fe3e28;
     text-align: center;
     align-items: center;
     justify-content: space-around;
@@ -22,6 +22,7 @@ body{
     color: white;
     font-size: 18px;
     font-weight: normal;
+    padding-top: 5px;
 }
 .cabeçalho h1{
 }
@@ -150,12 +151,12 @@ input{
 }
 .descriçao p{
     font-size: 20px;
-    padding: 20px;
-    text-align: center;
+    padding: 30px;
+    text-align: justify;
     align-items: center;
-    text-decoration: justify;
     text-indent: 20px;
     margin-bottom: 10px;
+    justify-content: center;
 }
 .outrass{
     height: 100vh;
