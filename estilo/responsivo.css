@@ -35,6 +35,8 @@
     }
     .outrass img{
         display: flex;
+        width: 350px;
+        height: 350px;
     }
     
 }
@@ -65,6 +67,8 @@
     }
     .outrass img{
         display: flex;
+        width: 300px;
+        height: 300px;
     }
 
 }

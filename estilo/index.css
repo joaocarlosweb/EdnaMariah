@@ -179,6 +179,8 @@ input{
     width: 40%;
     align-items: center;
     font-family: sans-serif;
+    justify-content: center;
+    text-align: center;
 }
 .outrass img{
     width: 40%;
