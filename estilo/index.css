@@ -180,10 +180,11 @@ input{
     align-items: center;
     font-family: sans-serif;
     justify-content: center;
-    text-align: justify;
+    text-align: center;
 }
 .outrass img{
     width: 40%;
+    height: 400px;
     display:inline-block;
     justify-content: center;
     background-size: cover;
