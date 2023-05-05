@@ -139,7 +139,7 @@ input{
 .descriçao img{
     width: 150px;
     height: 150px;
-    margin-top: 20px;
+    margin-top: 50px;
     border-radius: 50%;
     border: solid 3px white;   
 }
@@ -155,8 +155,64 @@ input{
     text-align: justify;
     align-items: center;
     text-indent: 20px;
-    margin-bottom: 10px;
     justify-content: center;
+}
+.block1{
+    width: 100%;
+    margin: auto;
+    background-color: #fe6c4c;
+    display: inline-block;
+    padding: 50px;
+    text-align: center;
+    align-items: center;
+}
+.block{
+    margin:15px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    display: inline-block;
+}
+.block .imgs{
+    margin: auto;
+    width: 100px;
+    height: 70px;
+}
+.block .h3block{
+    margin: auto;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: white;
+    padding: 10px;
+}
+.block .pblock{
+    margin:auto;
+    text-align: justify;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 10px;
+
+}
+.block .preco{
+    font-size: 24px;
+    font-weight: 600;
+    display: block;
+}
+.block .btnblock{
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-family: sans-serif;
+    font-size: 14px;
+    background-color: #ff9b70;
+    transition: 1s;
+}
+.block .btnblock:hover{
+    background-color: #fd0f04;
+    color: white;
 }
 .outrass{
     height: 100vh;
